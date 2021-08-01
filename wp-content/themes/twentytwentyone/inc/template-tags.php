@@ -127,7 +127,7 @@ if ( ! function_exists( 'twenty_twenty_one_entry_meta_footer' ) ) {
 			// Posted on.
 			twenty_twenty_one_posted_on();
 			// Posted by.
-			twenty_twenty_one_posted_by();
+			// twenty_twenty_one_posted_by();
 			// Edit post link.
 			edit_post_link(
 				sprintf(
